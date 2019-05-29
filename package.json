@@ -1,0 +1,23 @@
+{
+  "name": "Node-blockchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yungcode34/Node-blockchain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yungcode34/Node-blockchain/issues"
+  },
+  "homepage": "https://github.com/Yungcode34/Node-blockchain#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
